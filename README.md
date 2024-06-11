@@ -11,7 +11,7 @@ distribution's platform
 6. Du skal huske at skrive navn og mail på forfatter.
 
 *Når du opretter et forløb acceptere du...*
-**§1**. Vi sender en faktura på 250kr per forløb du laver over mail.
+**§1**. Vi sender en faktura på 250kr, per forløb du laver, over mail.
 Du skal betale inden for 2 uger ellers bliver din forløb slettet.
 **§1.2**. Bliver du ved med at lave forløb uden at betale kræver vi 750kr som 
 skal betales inden for 4 uger.

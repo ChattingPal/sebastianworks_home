@@ -65,16 +65,16 @@ form input {
     margin-bottom: 1rem;
 }
 
-button.delete-btn {
-    background-color: red;
+.button {
+    background-color: green;
     color: white;
     border: none;
     padding: 0.5rem;
     cursor: pointer;
 }
 
-button.delete-btn:hover {
-    background-color: darkred;
+.button:hover {
+    background-color: darkgreen;
 }
 
 footer {
